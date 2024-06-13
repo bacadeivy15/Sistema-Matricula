@@ -1,0 +1,40 @@
+F:\PALMA\SISTEMA MATRICULA\Sistema Matricula\Sistema Matricula\bin\Debug\Sistema Matricula.exe.config
+F:\PALMA\SISTEMA MATRICULA\Sistema Matricula\Sistema Matricula\bin\Debug\Sistema Matricula.exe
+F:\PALMA\SISTEMA MATRICULA\Sistema Matricula\Sistema Matricula\bin\Debug\Sistema Matricula.pdb
+F:\PALMA\SISTEMA MATRICULA\Sistema Matricula\Sistema Matricula\bin\Debug\Sistema Matricula.xml
+F:\PALMA\SISTEMA MATRICULA\Sistema Matricula\Sistema Matricula\obj\Debug\Sistema Matricula.vbproj.AssemblyReference.cache
+F:\PALMA\SISTEMA MATRICULA\Sistema Matricula\Sistema Matricula\obj\Debug\Sistema_Matricula.Form1.resources
+F:\PALMA\SISTEMA MATRICULA\Sistema Matricula\Sistema Matricula\obj\Debug\Sistema_Matricula.Resources.resources
+F:\PALMA\SISTEMA MATRICULA\Sistema Matricula\Sistema Matricula\obj\Debug\Sistema Matricula.vbproj.GenerateResource.cache
+F:\PALMA\SISTEMA MATRICULA\Sistema Matricula\Sistema Matricula\obj\Debug\Sistema Matricula.vbproj.CoreCompileInputs.cache
+F:\PALMA\SISTEMA MATRICULA\Sistema Matricula\Sistema Matricula\obj\Debug\Sistema Matricula.exe
+F:\PALMA\SISTEMA MATRICULA\Sistema Matricula\Sistema Matricula\obj\Debug\Sistema Matricula.xml
+F:\PALMA\SISTEMA MATRICULA\Sistema Matricula\Sistema Matricula\obj\Debug\Sistema Matricula.pdb
+D:\TRABAJO\PALMA\SISTEMA DE MATRICULA\SISTEMA MATRICULA\Sistema Matricula\Sistema Matricula\bin\Debug\Sistema Matricula.exe.config
+D:\TRABAJO\PALMA\SISTEMA DE MATRICULA\SISTEMA MATRICULA\Sistema Matricula\Sistema Matricula\bin\Debug\Sistema Matricula.exe
+D:\TRABAJO\PALMA\SISTEMA DE MATRICULA\SISTEMA MATRICULA\Sistema Matricula\Sistema Matricula\bin\Debug\Sistema Matricula.pdb
+D:\TRABAJO\PALMA\SISTEMA DE MATRICULA\SISTEMA MATRICULA\Sistema Matricula\Sistema Matricula\bin\Debug\Sistema Matricula.xml
+D:\TRABAJO\PALMA\SISTEMA DE MATRICULA\SISTEMA MATRICULA\Sistema Matricula\Sistema Matricula\obj\Debug\Sistema Matricula.vbproj.AssemblyReference.cache
+D:\TRABAJO\PALMA\SISTEMA DE MATRICULA\SISTEMA MATRICULA\Sistema Matricula\Sistema Matricula\obj\Debug\Sistema_Matricula.Form1.resources
+D:\TRABAJO\PALMA\SISTEMA DE MATRICULA\SISTEMA MATRICULA\Sistema Matricula\Sistema Matricula\obj\Debug\Sistema_Matricula.Resources.resources
+D:\TRABAJO\PALMA\SISTEMA DE MATRICULA\SISTEMA MATRICULA\Sistema Matricula\Sistema Matricula\obj\Debug\Sistema Matricula.vbproj.GenerateResource.cache
+D:\TRABAJO\PALMA\SISTEMA DE MATRICULA\SISTEMA MATRICULA\Sistema Matricula\Sistema Matricula\obj\Debug\Sistema Matricula.vbproj.CoreCompileInputs.cache
+D:\TRABAJO\PALMA\SISTEMA DE MATRICULA\SISTEMA MATRICULA\Sistema Matricula\Sistema Matricula\obj\Debug\Sistema Matricula.exe
+D:\TRABAJO\PALMA\SISTEMA DE MATRICULA\SISTEMA MATRICULA\Sistema Matricula\Sistema Matricula\obj\Debug\Sistema Matricula.xml
+D:\TRABAJO\PALMA\SISTEMA DE MATRICULA\SISTEMA MATRICULA\Sistema Matricula\Sistema Matricula\obj\Debug\Sistema Matricula.pdb
+D:\TRABAJO\PALMA\SISTEMA DE MATRICULA\SISTEMA MATRICULA\Sistema Matricula\Sistema Matricula\obj\Debug\Sistema_Matricula.FrmBuscar.resources
+D:\TRABAJO\PALMA\SISTEMA DE MATRICULA\SISTEMA MATRICULA\Sistema Matricula\Sistema Matricula\obj\Debug\Sistema_Matricula.FrmGrafica.resources
+E:\TRABAJO\PALMA\SISTEMA DE MATRICULA\SISTEMA MATRICULA\Sistema Matricula\Sistema Matricula\bin\Debug\Sistema Matricula.exe.config
+E:\TRABAJO\PALMA\SISTEMA DE MATRICULA\SISTEMA MATRICULA\Sistema Matricula\Sistema Matricula\bin\Debug\Sistema Matricula.exe
+E:\TRABAJO\PALMA\SISTEMA DE MATRICULA\SISTEMA MATRICULA\Sistema Matricula\Sistema Matricula\bin\Debug\Sistema Matricula.pdb
+E:\TRABAJO\PALMA\SISTEMA DE MATRICULA\SISTEMA MATRICULA\Sistema Matricula\Sistema Matricula\bin\Debug\Sistema Matricula.xml
+E:\TRABAJO\PALMA\SISTEMA DE MATRICULA\SISTEMA MATRICULA\Sistema Matricula\Sistema Matricula\obj\Debug\Sistema Matricula.vbproj.AssemblyReference.cache
+E:\TRABAJO\PALMA\SISTEMA DE MATRICULA\SISTEMA MATRICULA\Sistema Matricula\Sistema Matricula\obj\Debug\Sistema_Matricula.Form1.resources
+E:\TRABAJO\PALMA\SISTEMA DE MATRICULA\SISTEMA MATRICULA\Sistema Matricula\Sistema Matricula\obj\Debug\Sistema_Matricula.FrmBuscar.resources
+E:\TRABAJO\PALMA\SISTEMA DE MATRICULA\SISTEMA MATRICULA\Sistema Matricula\Sistema Matricula\obj\Debug\Sistema_Matricula.FrmGrafica.resources
+E:\TRABAJO\PALMA\SISTEMA DE MATRICULA\SISTEMA MATRICULA\Sistema Matricula\Sistema Matricula\obj\Debug\Sistema_Matricula.Resources.resources
+E:\TRABAJO\PALMA\SISTEMA DE MATRICULA\SISTEMA MATRICULA\Sistema Matricula\Sistema Matricula\obj\Debug\Sistema Matricula.vbproj.GenerateResource.cache
+E:\TRABAJO\PALMA\SISTEMA DE MATRICULA\SISTEMA MATRICULA\Sistema Matricula\Sistema Matricula\obj\Debug\Sistema Matricula.vbproj.CoreCompileInputs.cache
+E:\TRABAJO\PALMA\SISTEMA DE MATRICULA\SISTEMA MATRICULA\Sistema Matricula\Sistema Matricula\obj\Debug\Sistema Matricula.exe
+E:\TRABAJO\PALMA\SISTEMA DE MATRICULA\SISTEMA MATRICULA\Sistema Matricula\Sistema Matricula\obj\Debug\Sistema Matricula.xml
+E:\TRABAJO\PALMA\SISTEMA DE MATRICULA\SISTEMA MATRICULA\Sistema Matricula\Sistema Matricula\obj\Debug\Sistema Matricula.pdb
